@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.2](https://github.com/matrix-org/rust-opa-wasm/compare/v0.3.1...v0.3.2) - 2026-08-04
+
+### Other
+
+- *(deps)* update base64 requirement from 0.22 to 0.23 ([#271](https://github.com/matrix-org/rust-opa-wasm/pull/271))
+- *(deps)* update base64 requirement from 0.22 to 0.23
+
 ## [0.3.1](https://github.com/matrix-org/rust-opa-wasm/compare/v0.3.0...v0.3.1) - 2026-07-08
 
 ### Other
